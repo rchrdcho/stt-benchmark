@@ -18,7 +18,7 @@ wheels/
 .vscode/
 
 # Resources
-input/
+inputs/
 outputs/
 
 # Keys
